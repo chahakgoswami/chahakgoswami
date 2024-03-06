@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/niyati-13"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=4A71D9&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B!+I+am+Niyati;Nice+to+meet+you!" alt="Typing SVG" /></a>
+<a href="https://github.com/chahakgoswami"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=4A71D9&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B!+I+am+Chahak;Nice+to+meet+you!" alt="Typing SVG" /></a>
 </p>
 
 <p align="left">
