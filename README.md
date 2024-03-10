@@ -165,11 +165,11 @@ Here is my Arsenal Tools and Skills I use;
   ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samya123456&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=chahakgoswami&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samya123456&theme=dark" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahakgoswami&theme=dark" alt="Top Languages">
 </p>
 
 </div>
