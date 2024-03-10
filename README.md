@@ -162,4 +162,14 @@ Here is my Arsenal Tools and Skills I use;
 - [Nvidia Auto Installer](https://github.com/t0xic0der/nvidia-auto-installer-for-fedora)
 - [Ultralytics](https://github.com/ultralytics/ultralytics)
 
+  ## GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samya123456&show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samya123456&theme=dark" alt="Top Languages">
+</p>
+
+</div>
